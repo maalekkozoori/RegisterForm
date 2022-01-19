@@ -68,10 +68,7 @@ class MainActivity : AppCompatActivity() {
             hideInfo()
         }
 
-
-
         var edit = sharedPreferences.edit()
-
         btnRegister.setOnClickListener {
             edit.putString("Full_Name", txtFullname.text.toString())
             edit.putString("User_Name", txtUserName.text.toString())
@@ -88,9 +85,7 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    fun showInfo() {
 
-    }
 
     fun hideInfo() {
         btnShowInfo.isEnabled = true

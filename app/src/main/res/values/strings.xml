@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RegisterForm</string>
+    <string name="show_info">Show Info</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Re-type Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full Name</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="register">Register</string>
+    <string name="hide_info">Hide Info</string>
+</resources>

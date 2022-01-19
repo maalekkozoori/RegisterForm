@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textView_Style">
+
+        <item name="android:background">@color/teal_200</item>
+        <item name="android:radius">20dp</item>
+
+
+    </style>
+    
+</resources>
